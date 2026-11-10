@@ -145,4 +145,4 @@ footprint first.
 
 ---
 
-*pdf-summarizer-made-easy · Updated 2026-10-24 · Shared under the MIT License*
+*pdf-summarizer-made-easy · Updated 2026-11-10 · Shared under the MIT License*
